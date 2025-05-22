@@ -1,0 +1,18 @@
+# Ignorar carpetas generadas automáticamente
+build/
+dist/
+nbproject/private/
+.nb-gradle/
+
+# Ignorar archivos generados por el IDE
+*.class
+*.log
+
+# Ignorar archivos temporales
+*.bak
+*.tmp
+*.swp
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
